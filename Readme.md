@@ -1,9 +1,9 @@
 # Encrypt Decrypt Tool
 
-##Description:
+Description:
 This Python-based Encrypt Decrypt Tool is a versatile command-line utility capable of encrypting and decrypting files of various formats, including mp3, jpeg, png, txt, and more. It employs the Fernet encryption algorithm, ensuring robust security for your sensitive data.
 
-###Features:
+Features:
 
 Encryption and Decryption: Allows users to encrypt and decrypt files of various formats, providing flexible data protection.
 Support for Multiple File Formats: Capable of encrypting and decrypting files in formats such as mp3, jpeg, png, txt, and more, catering to diverse user needs.
@@ -11,11 +11,6 @@ Fernet Encryption: Utilizes the Fernet symmetric encryption algorithm, known for
 Command-line Interface: Offers a straightforward command-line interface for seamless usage and integration into scripts and workflows.
 File Input and Output: Supports specifying input and output file paths for encryption and decryption operations, enhancing user control and convenience.
 
-Usage
-## Encrypt Decrypt Tool
-
-### Description
-This Python-based tool allows you to encrypt and decrypt files of various formats, including mp3, jpeg, png, txt, and more. It utilizes the Fernet encryption algorithm for robust security.
 
 ### Usage
 To encrypt a file:
